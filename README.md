@@ -1,5 +1,4 @@
 <h1 align=“center”>Hey :wave:What’s Up?</h1>
-###
 <div align=“center”>
   <img src=“https://skillicons.dev/icons?i=nestjs” height=“60" alt=“nestjs logo”  />
   <img width=“12" />
@@ -23,7 +22,6 @@
   <img width=“12" />
   <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg” height=“60" alt=“kubernetes logo”  />
 </div>
-###
 <div align=“center”>
   <a href=“https://www.linkedin.com/in/parsa-shadkam-802a3a258/” target=“_blank”>
     <img src=“https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge” height=“25" alt=“linkedin logo”  />
@@ -35,4 +33,8 @@
     <img src=“https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge” height=“25" alt=“gmail logo”  />
   </a>
 </div>
-###
+<div align=“center”>
+  <img src=“https://github-readme-stats-fast.vercel.app/api/streak?username=milad-mamandi&theme=github_dark” />
+  <img src=“https://raw.githubusercontent.com/trinib/trinib/master/img/transparent.png” width=“40" height=“1” />
+  <img src=“https://github-readme-stats-fast.vercel.app/api/top-langs/?username=milad-mamandi&layout=compact&theme=github_dark” />
+</div>
