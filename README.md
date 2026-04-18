@@ -845,7 +845,7 @@ const parsa: AIEngineer = {
 </h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/parsashadkam/" target="_blank">
+  <a href="https://www.linkedin.com/in/parsa-shadkam-802a3a258/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=0d1117&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
   <a href="https://t.me/parsashadkam" target="_blank">
