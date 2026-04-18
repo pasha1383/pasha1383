@@ -1,0 +1,47 @@
+name: 🐍 Generate Snake Animation
+
+# ═══════════════════════════════════════════════════════════════
+# Generates an animated SVG of GitHub contribution grid being
+# "eaten" by a snake, and publishes it to the `output` branch.
+# ═══════════════════════════════════════════════════════════════
+
+on:
+  # Run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+  # Run on every push to main branch
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # Step 1: Generate the snake SVGs (light + dark variants)
+      - name: 🎨 Generate snake animation SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: pasha1383
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd7ff,#218bff,#1c7ed6,#1971c2,#1864ab
+
+      # Step 2: Push the generated files to the `output` branch
+      - name: 🚀 Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
