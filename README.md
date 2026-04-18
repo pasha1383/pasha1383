@@ -448,6 +448,255 @@ const parsa: AIEngineer = {
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📜 ACADEMIC & RESEARCH PORTFOLIO — paper-style section                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:16213e,100:0f3460&height=90&section=header&text=Academic%20%26%20Research%20Portfolio&fontSize=28&fontColor=e8d5b7&fontAlignY=55&desc=%E2%80%94%20scholarly%20work%2C%20research%20interests%20%26%20teaching%20%E2%80%94&descAlignY=78&descSize=12" alt="academic header"/>
+</div>
+
+<div align="center">
+  <sub><em>— Parsa Shadkam, K. N. Toosi University of Technology, 2026 —</em></sub>
+</div>
+
+<br/>
+
+<!-- ───────────────────────────── ACADEMIC STANDING ───────────────────────────── -->
+
+<h3 align="center">📜 &nbsp;<em>Academic Standing</em></h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <sub><strong>DEGREE</strong></sub><br/>
+      <em>B.Sc. Computer Engineering</em>
+    </td>
+    <td align="center" width="25%">
+      <sub><strong>INSTITUTION</strong></sub><br/>
+      <em>K. N. Toosi University<br/>of Technology</em>
+    </td>
+    <td align="center" width="25%">
+      <sub><strong>YEARS</strong></sub><br/>
+      <em>2022 — Present</em>
+    </td>
+    <td align="center" width="25%">
+      <sub><strong>GPA</strong></sub><br/>
+      <em>— / 20</em> ✎
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>✎ <em>Insert your exact GPA above (e.g. 17.50 / 20 or 3.65 / 4.0)</em></sub></p>
+
+<br/>
+
+<!-- ───────────────────────────── RESEARCH INTERESTS ───────────────────────────── -->
+
+<h3 align="center">🔬 &nbsp;<em>Research Interests</em></h3>
+
+<p align="center"><em>My research curiosity lives at the intersection of <strong>scalable backend systems</strong> and <strong>applied machine intelligence</strong>.</em></p>
+
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+      <p align="center"><strong>🧠 Applied Machine Learning</strong></p>
+      <ul>
+        <li><em>Medical image analysis & computer-aided diagnosis</em> (extending my C++ work on cancer detection)</li>
+        <li><em>Deep learning for pattern recognition in tabular & time-series data</em></li>
+        <li><em>Transfer learning & few-shot adaptation</em></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <p align="center"><strong>⚙️ Systems for AI</strong></p>
+      <ul>
+        <li><em>Production serving infrastructure for LLMs and generative models</em></li>
+        <li><em>Retrieval-Augmented Generation (RAG) architectures at scale</em></li>
+        <li><em>MLOps pipelines & reproducibility engineering</em></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <p align="center"><strong>🏗️ Distributed Systems</strong></p>
+      <ul>
+        <li><em>Event-driven microservices & consistency guarantees</em></li>
+        <li><em>High-concurrency backend design (extension of my work at Divar & Samin Rayaneh)</em></li>
+        <li><em>Observability and self-healing systems</em></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ───────────────────────────── PUBLICATIONS ───────────────────────────── -->
+
+<h3 align="center">📚 &nbsp;<em>Publications & Preprints</em></h3>
+
+<p align="center"><sub><em>Formatted in academic citation style. Replace placeholder entries with your actual work as it publishes.</em></sub></p>
+
+<blockquote>
+
+<p><strong>[1]</strong> &nbsp; <strong>Shadkam, P.</strong> &nbsp;<em>"Image Processing Pipelines for Early Cancer Detection: A C++ Algorithmic Approach."</em> &nbsp; <ins>Technical Report</ins>, K. N. Toosi University of Technology, 2025. &nbsp;<sub>[ <a href="#">preprint</a> · <a href="#">code</a> ]</sub></p>
+
+<p><strong>[2]</strong> &nbsp; <strong>Shadkam, P.</strong> &nbsp;<em>"Hexagonal Architecture in Production NestJS Services: A Case Study on Migrating Legacy Systems."</em> &nbsp; <ins>Working Paper</ins>, 2024. &nbsp;<sub>[ <a href="https://github.com/pasha1383/NestJs_Hexagonal_Architecture">code</a> ]</sub></p>
+
+<p><strong>[3]</strong> &nbsp; <strong>Shadkam, P.</strong> &nbsp;<em>"Event-Driven Microservices for High-Concurrency Workloads."</em> &nbsp; <ins>In preparation</ins>. &nbsp;<sub>[ expected 2026 ]</sub></p>
+
+<p><strong>[4]</strong> &nbsp; <strong>Shadkam, P.</strong> &nbsp;<em>"Competitive Programming as Algorithmic Training for Software Engineers."</em> &nbsp; <ins>Student Essay</ins>, ICPC Training Notes, 2024. &nbsp;<sub>[ <a href="https://github.com/pasha1383/codeforces-problemset-train">notes</a> ]</sub></p>
+
+</blockquote>
+
+<br/>
+
+<!-- ───────────────────────────── THESIS / CAPSTONE ───────────────────────────── -->
+
+<h3 align="center">🎓 &nbsp;<em>Thesis / Capstone Project</em></h3>
+
+<blockquote>
+
+<p align="center"><strong><em>— Proposed Thesis —</em></strong></p>
+
+<p align="center"><strong>"Scalable AI Inference Architectures: Bridging Domain-Driven Backend Design with Production-Grade LLM Serving"</strong></p>
+
+<p><strong>Advisor:</strong> &nbsp;<em>[ To be confirmed ]</em> &nbsp;·&nbsp; <strong>Department:</strong> &nbsp;Computer Engineering, KNTU &nbsp;·&nbsp; <strong>Expected:</strong> &nbsp;2026</p>
+
+<p><strong>Abstract:</strong> &nbsp;<em>This thesis investigates the architectural patterns required to serve modern AI workloads within clean, maintainable backend systems. We explore how Domain-Driven Design and Hexagonal Architecture — proven in traditional enterprise backends — can be adapted to the stochastic, latency-sensitive nature of LLM inference and retrieval-augmented generation. The work combines systems engineering with empirical evaluation of serving strategies under realistic load profiles.</em></p>
+
+<p><strong>Keywords:</strong> &nbsp;<em>LLM serving · microservices · hexagonal architecture · MLOps · distributed inference</em></p>
+
+</blockquote>
+
+<br/>
+
+<!-- ───────────────────────────── COURSEWORK ───────────────────────────── -->
+
+<h3 align="center">📖 &nbsp;<em>Selected Coursework</em></h3>
+
+<p align="center"><sub><em>Relevant subjects from my B.Sc. Computer Engineering curriculum at KNTU.</em></sub></p>
+
+<table align="center">
+  <tr>
+    <th align="left"><em>🧮 Core Computer Science</em></th>
+    <th align="left"><em>🖧 Systems & Networks</em></th>
+    <th align="left"><em>🤖 AI / Data</em></th>
+  </tr>
+  <tr>
+    <td><em>· Data Structures</em></td>
+    <td><em>· Operating Systems</em></td>
+    <td><em>· Artificial Intelligence</em></td>
+  </tr>
+  <tr>
+    <td><em>· Algorithm Design & Analysis</em></td>
+    <td><em>· Computer Networks</em></td>
+    <td><em>· Machine Learning</em></td>
+  </tr>
+  <tr>
+    <td><em>· Discrete Mathematics</em></td>
+    <td><em>· Compiler Design</em></td>
+    <td><em>· Probability & Statistics</em></td>
+  </tr>
+  <tr>
+    <td><em>· Linear Algebra</em></td>
+    <td><em>· Database Systems</em></td>
+    <td><em>· Numerical Methods</em></td>
+  </tr>
+  <tr>
+    <td><em>· Advanced Programming (C++)</em></td>
+    <td><em>· Computer Architecture</em></td>
+    <td><em>· Signal Processing</em></td>
+  </tr>
+  <tr>
+    <td><em>· Software Engineering</em></td>
+    <td><em>· Simulation & Modeling</em></td>
+    <td><em>· Image Processing</em></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ───────────────────────────── TEACHING ───────────────────────────── -->
+
+<h3 align="center">👨‍🏫 &nbsp;<em>Teaching & Mentorship</em></h3>
+
+<blockquote>
+
+<p><strong>📐 ICPC Training Lead</strong> &nbsp;·&nbsp; <em>KNTU Competitive Programming Team</em> &nbsp;·&nbsp; 2023 — Present<br/>
+<sub>Mentored junior teammates on algorithm design, problem-solving strategies, and contest preparation. Curated training problem sets leading to the team's <em>ICPC National Rank 20</em> finish in 2024.</sub></p>
+
+<p><strong>💻 Backend Engineering Mentor</strong> &nbsp;·&nbsp; <em>Peer Study Circle, KNTU</em> &nbsp;·&nbsp; 2023 — Present<br/>
+<sub>Led informal workshops on NestJS, clean architecture, and Domain-Driven Design for undergraduate peers transitioning into backend roles.</sub></p>
+
+<p><strong>📘 Open-Source Educational Content</strong> &nbsp;·&nbsp; <em>Self-initiated</em> &nbsp;·&nbsp; 2023 — Present<br/>
+<sub>Maintain the public <a href="https://github.com/pasha1383/Tutorial_TypeScript">TypeScript Tutorial</a> and <a href="https://github.com/pasha1383/AbdulBari-Algorithm">Abdul Bari Algorithms</a> repositories as learning references for the student community.</sub></p>
+
+</blockquote>
+
+<br/>
+
+<!-- ───────────────────────────── CONFERENCES ───────────────────────────── -->
+
+<h3 align="center">🎤 &nbsp;<em>Conferences, Contests & Workshops</em></h3>
+
+<table align="center">
+  <tr>
+    <td align="left"><em>🏆</em></td>
+    <td align="left"><strong>ICPC (International Collegiate Programming Contest)</strong> — <em>National Finalist, Rank 20</em></td>
+    <td align="right"><em>2024</em></td>
+  </tr>
+  <tr>
+    <td align="left"><em>🥇</em></td>
+    <td align="left"><strong>National Computer Olympiad of Iran</strong> — <em>Olympiad Diploma</em></td>
+    <td align="right"><em>2021</em></td>
+  </tr>
+  <tr>
+    <td align="left"><em>🚀</em></td>
+    <td align="left"><strong>Divar "T-Shape" Engineering Program</strong> — <em>intensive training in high-scale systems</em></td>
+    <td align="right"><em>2024</em></td>
+  </tr>
+  <tr>
+    <td align="left"><em>🧑‍💻</em></td>
+    <td align="left"><strong>Codeforces Online Contests</strong> — <em>regular participant; see <a href="https://github.com/pasha1383/codeforces-problemset-train">training archive</a></em></td>
+    <td align="right"><em>ongoing</em></td>
+  </tr>
+  <tr>
+    <td align="left"><em>📜</em></td>
+    <td align="left"><em>Additional workshops — fill in as applicable (research seminars, AI summits, hackathons)</em></td>
+    <td align="right"><em>✎</em></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ───────────────────────────── REFERENCES ───────────────────────────── -->
+
+<h3 align="center">✉️ &nbsp;<em>Academic References & Advisors</em></h3>
+
+<blockquote>
+
+<p align="center"><em>Available upon request.</em></p>
+
+<p align="center"><sub>For academic references, research advisors, or letters of recommendation, please reach out via <a href="mailto:parsashadkam2004@gmail.com">parsashadkam2004@gmail.com</a>.</sub></p>
+
+<p align="center"><sub>✎ <em>If you'd like specific professor names listed publicly, paste them and I'll format them here.</em></sub></p>
+
+</blockquote>
+
+<br/>
+
+<div align="center">
+  <sub><em>— End of Academic Portfolio —</em></sub>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ✨ ANIMATED NEON DIVIDER ✨                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ✨ HONORS & ACHIEVEMENTS ✨                                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
